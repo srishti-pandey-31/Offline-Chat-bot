@@ -47,3 +47,5 @@ Author's Note
 ----------------------------------------------------------
 This model serves as a prototype. For production, train with more data and consider
 larger models (GPT-2 Medium, T5, or Longformer) for better context understanding.
+
+Model file- https://drive.google.com/file/d/1SsbgwGgaS3VbXtM1nvwd7pw2V3EPmMk8/view?usp=sharing
